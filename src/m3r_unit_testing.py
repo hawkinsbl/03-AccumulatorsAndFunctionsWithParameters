@@ -69,7 +69,7 @@ def distance(point):
 main()
 
 ###############################################################################
-# DONE: 2.
+# Done: 2.
 #
 # READ the following, asking questions as needed.
 # When you believe that you understanding what is says about UNIT TESTING,
