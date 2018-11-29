@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# TODO:
+# Done:
 #   1. READ the code below.
 #   2. TRACE (by hand) the execution of the code,
 #        predicting what will get printed.
